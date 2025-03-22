@@ -1,2 +1,1 @@
-Readme dosyasi
-push deniyor
+Readme.txt
