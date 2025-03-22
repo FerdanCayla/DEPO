@@ -1,1 +1,2 @@
 Readme dosyasi
+push deniyor
