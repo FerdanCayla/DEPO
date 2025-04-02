@@ -14,7 +14,7 @@ num2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("3. Sayi:");
 num3 = Convert.ToDouble(Console.ReadLine());
 
-double result = (num1 * num2 + num3) /3;
+double result = (num1 + num2 + num3) /3;
 Console.WriteLine("Sayilarin Ortalamasi: " + result);
 
 Console.ReadKey();
