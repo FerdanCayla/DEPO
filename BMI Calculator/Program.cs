@@ -1,4 +1,6 @@
-﻿
+﻿Console.BackgroundColor=ConsoleColor.Black;
+Console.ForegroundColor=ConsoleColor.White;
+
 Console.WriteLine("BMI Calculator, Press to continue!");
 
 Console.ReadKey();
