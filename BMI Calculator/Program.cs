@@ -1,7 +1,9 @@
-﻿Console.BackgroundColor=ConsoleColor.Black;
+﻿using System.Security.Cryptography;
+
+Console.BackgroundColor=ConsoleColor.Black;
 Console.ForegroundColor=ConsoleColor.White;
 
-Console.WriteLine("BMI Calculator, Press to continue!");
+Console.WriteLine("BMI Calculator, Press ENTER to continue!");
 
 Console.ReadKey();
 
@@ -24,13 +26,13 @@ else if (BMI < 24.9)
 }
 else if (BMI < 29.9)
 {
-    Console.WriteLine("You are Overweight, your health risk is Increased");
-}
-else if (BMI < 34.9)
 {
     Console.WriteLine("You are Obese, your health risk is High");
 }
 else if (BMI < 39.9)
+    Console.WriteLine("You are Overweight, your health risk is Increased");
+}
+else if (BMI < 34.9)
 {
     Console.WriteLine("You are Severely Obese, your health risk is Very High");
 }
