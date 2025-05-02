@@ -8,32 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\holyf\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\holyf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\holyf\\OneDrive\\Desktop\\DEPO\\BMI Calculator\\BMI Calculator.csproj",
-      "projectName": "BMI Calculator",
-      "projectPath": "C:\\Users\\holyf\\OneDrive\\Desktop\\DEPO\\BMI Calculator\\BMI Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\holyf\\OneDrive\\Desktop\\DEPO\\DiceRoller\\DiceRoller\\DiceRoller.csproj",
+      "projectName": "DiceRoller",
+      "projectPath": "C:\\Users\\holyf\\OneDrive\\Desktop\\DEPO\\DiceRoller\\DiceRoller\\DiceRoller.csproj",
       "packagesPath": "C:\\Users\\holyf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\holyf\\OneDrive\\Desktop\\DEPO\\BMI Calculator\\obj\\",
+      "outputPath": "C:\\Users\\holyf\\OneDrive\\Desktop\\DEPO\\DiceRoller\\DiceRoller\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\holyf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\holyf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
