@@ -38,7 +38,7 @@ else if (BMI < 34.9)
 }
 else if (BMI >= 40)
 {
-    Console.WriteLine("You are Mmorbidly Obese, your health risk is Extremely High ");
+    Console.WriteLine("You are Morbidly Obese, your health risk is Extremely High ");
 }
 
 Console.ReadKey();
